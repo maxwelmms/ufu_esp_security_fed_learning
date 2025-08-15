@@ -4,7 +4,7 @@ Repositório do projeto de aprendizado federado usando Flower Framework com data
 
 ## Estrutura
 
-``
+```
 ufu_esp_security_fed_learning/
 ├─ data/
 │  └─ ERENO-2.0-100K.csv
@@ -18,7 +18,7 @@ ufu_esp_security_fed_learning/
 │  └─ run_project.sh
 ├─ requirements.txt
 └─ README.md
- ``
+ ```
 
 ## Como rodar
 
