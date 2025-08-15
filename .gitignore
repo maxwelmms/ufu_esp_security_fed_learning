@@ -1,0 +1,22 @@
+# Ignorar todos os arquivos CSV dentro de data/
+data/*.csv
+
+# Ignorar ambientes virtuais do Python
+venv/
+.venv/
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar configurações locais do VS Code
+.vscode/
+
+# Ignorar logs
+*.log
+
+# Ignorar arquivos de backup
+*.bak
+*.swp
